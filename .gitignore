@@ -1,0 +1,10 @@
+# Database credentials
+config/db.conf
+
+# Logs
+logs/*.log
+
+# Temporary files
+*.tmp
+*.swp
+
